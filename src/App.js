@@ -15,6 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
+          Proyecto Integracion Continua AWS, Jenkins y Github
           Test CI
         </a>
       </header>
